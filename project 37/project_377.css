@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: black;
+}
+
+.container {
+    padding: 63px 84px;
+}
+
+.heading {
+    display: flex;
+    /* padding: 84px 72px; */
+}
+
+p {
+    color: #4d3f3f;
+    /* width: 120px; */
+    font-size: 20px;
+}
+
+img {
+
+    height: 23px;
+    padding: 14px 6px;
+}
+
+
+
+span {
+    color: #12A9C9;
+    font-size: 38px;
+}
+
+.button {
+    padding: 30px 0px;
+}
+
+button {
+    background-color: #12A9C9;
+    border-radius: 10px;
+    width: 81px;
+    height: 30px;
+    color: white;
+    font-size: 12px;
+    font-weight: bolder;
+
+}
